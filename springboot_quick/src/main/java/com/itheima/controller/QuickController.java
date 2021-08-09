@@ -15,7 +15,7 @@ public class QuickController {
     @RequestMapping("/quick")
     @ResponseBody
     public String quick(){
-        return "springboot 访问成功!";
+        return "springboot 访问成功!--测试第一次修改";
     }
 
 }
